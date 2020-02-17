@@ -36,6 +36,8 @@ jupyter notebook Project_Image_Classifier_Project.ipynb
 
 This will open the iPython Notebook software and project file in your browser.
 
+**Important Notice**: The deep learning network for this project is *very* deep and dense. Thus, running this notebook might require GPU to be enabled.
+
 ## Data
 The dataset used is _[Oxford 102 Category Flower Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)_.
 
